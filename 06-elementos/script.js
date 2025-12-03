@@ -48,7 +48,7 @@ puede ser iniciado por el usuario o por el navegador. los eventos pueden ser nav
 
 // seleccionamos un elemento
 
-const boton = document.getElementById("button")
+const button = document.getElementById("button")
 
 
 button.addEventListener("click", mostrasMensaje);
